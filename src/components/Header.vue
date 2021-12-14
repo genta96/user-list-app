@@ -13,5 +13,5 @@
     }
     .header h1 { font-size: 55px; font-weight: bolder;}
     .header svg { margin-top: 15px;}
-    .sticky { position: fixed; top: 0; width: 100%; }
+    .sticky { position: fixed; top: 0; width: 100%; background: #fff; }
 </style>
